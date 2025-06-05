@@ -23,7 +23,6 @@
       "pluginId": "postgres-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
     "name": "Query1",
     "pageId": "Page1",
     "runBehaviour": "ON_PAGE_LOAD",
